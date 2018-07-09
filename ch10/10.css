@@ -1,0 +1,83 @@
+body
+{
+font: medium/1.2em Verdana, Times NEw Roman, "Arial";
+}
+h1,h2
+{
+color: #4EA4DA;
+font-size: 120%; 
+}
+.guarantee
+{
+background-image: Url(images/canva-photo-editor.png);
+background-repeat: no-repeat;
+font-style: italic;
+font-weight: bold;
+background-color:  #A7CECE;
+border: 1px dashed white;
+padding: 20px;
+padding-left: 120px;
+margin: 30px;
+margin-right: 250px;
+line-height: 1.2em;
+width:55%;
+}
+#elixirs{
+border: thin solid #007e7e;
+width: 250px;
+padding: 10px 20px 30px 30px;
+margin-left: 20px;
+text-align: center;
+background-image: url(images/cooktail.gif);
+background-repeat: repeat-x;
+background-size: 30px;
+line-height: 1;
+float: right;
+}
+#elixirs h2{
+color: black;
+}
+#elixirs h3{
+color: #d12c47;
+}
+.cd{
+font-style: italic;
+}
+.artist{
+font-weight: bold;
+}
+a:link{
+color: green;
+}
+a:visited{
+color: red;
+}
+a:hover{
+color: yellow;
+}
+#elixirs a:active{
+color: maroon;
+}
+#footer
+{
+text-align: center;	
+font-style: italic;
+font-weight: lighter;	
+font-size: 74%;
+line-height: normal;
+}
+#ab{
+margin-right:320px;
+}
+#elixirs a:link {
+  color: #007e7e;
+}
+
+#elixirs a:visited {
+  color: #333333;
+}
+
+#elixirs a:hover {
+  background: #f88396;
+  color: #0d5353;
+}
